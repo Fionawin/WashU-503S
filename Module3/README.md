@@ -1,3 +1,8 @@
+# CSE330
+- Name: Fiona Xu
+- Student id: 510576
+- Github username: Fionawin
+
 # Requirements
 
 ### MySQL Queries (25 Points)
